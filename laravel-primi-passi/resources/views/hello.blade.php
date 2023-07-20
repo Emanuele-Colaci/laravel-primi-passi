@@ -21,6 +21,6 @@
         </style>
     </head>
     <body>
-        <a href="/hello">Saluto</a>
+        
     </body>
 </html>
