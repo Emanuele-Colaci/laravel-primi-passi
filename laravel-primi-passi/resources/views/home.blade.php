@@ -17,6 +17,15 @@
         <style>
             body {
                 font-family: 'Nunito', sans-serif;
+                width: 100%;
+                height: 100vh;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            a{
+                font-size: 200px;
+                color: cornflowerblue;
             }
         </style>
     </head>

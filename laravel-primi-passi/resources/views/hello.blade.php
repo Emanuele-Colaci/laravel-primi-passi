@@ -17,10 +17,19 @@
         <style>
             body {
                 font-family: 'Nunito', sans-serif;
+                width: 100%;
+                height: 100vh;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            h1{
+                font-size: 100px;
+                text-decoration: underline;
             }
         </style>
     </head>
     <body>
-        
+        <h1>Ciao a tutti è bello usare laravel</h1>
     </body>
 </html>
