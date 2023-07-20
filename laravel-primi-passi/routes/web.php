@@ -18,5 +18,11 @@ Route::get('/', function () {
 });
 
 Route::get('/hello', function () {
-    return view('hello');
+    
+    $data = [
+        'content' => 'Quanto è bello',
+        'name' => 'Laravel'
+    ];
+
+    return view('hello', $data);
 });

@@ -30,6 +30,6 @@
         </style>
     </head>
     <body>
-        <h1>Ciao a tutti è bello usare laravel</h1>
+        <h1>{{ $content }} {{ $name }}</h1>
     </body>
 </html>
